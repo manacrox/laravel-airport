@@ -4,7 +4,7 @@ the data from this package based on https://openflights.org/data.html#airport
 
 how to install:
 1. install via composer `composer require manacrox/laravel-airport`
-2. seeding the data `webappid:airport:seed`
+2. seeding the data `manacrox:airport:seed`
 
 example get airport by country :
 

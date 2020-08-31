@@ -1,11 +1,11 @@
 {
-  "name": "webappid/laravel-airport",
+  "name": "manacrox/laravel-airport",
   "description": "Laravel airport package",
   "license": "MIT",
   "authors": [
     {
-      "name": "Dyan Galih",
-      "email": "dyan.galih@gmail.com"
+      "name": "Matías Navarro Croxatto",
+      "email": "donmatias@gmail.com"
     }
   ],
   "minimum-stability": "dev",
